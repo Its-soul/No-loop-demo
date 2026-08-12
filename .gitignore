@@ -18,11 +18,17 @@ dist/
 
 # env
 .env
-.env*.local
+.env.*
 !.env.example
 
 # typescript
 *.tsbuildinfo
+
+# python / venv
+venv/
+.venv/
+__pycache__/
+*.pyc
 
 # generated synthetic data
 backend/data/
