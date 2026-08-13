@@ -1,6 +1,6 @@
 # Noloop Project
 
-![NoLoop Demo](./demo.png)
+![NoLoop Demo](./no-loop-demo.png)
 
 A full-stack web application featuring a Next.js frontend, a NestJS backend, and a Python-based AI microservice.
 
